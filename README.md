@@ -1,16 +1,6 @@
 <div align="center">
 
-**Software developer**  
-[ [See my portfolio ↗︎][repo-url] ]
-  
-
-</div>
-
-<div align="center">
-
-[![][logo-url]][repo-url]  
-
-**Software developer**  
+**Mr Potato Fernando - Software developer**  
 [ [See my portfolio ↗︎][repo-url] ]
   
 
@@ -18,7 +8,5 @@
 
 [![][banner-url]][repo-url]  
 
-
-[logo-url]: https://raw.githubusercontent.com/saadeghi/files/main/daisyui/logo-4.svg
 [repo-url]: https://mrpotato.netlify.app
 [banner-url]: https://mrpotato.netlify.app/images/background.webp
