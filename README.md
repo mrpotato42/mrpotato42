@@ -1,6 +1,7 @@
 <div align="center">
 
-**Mr Potato Fernando - Software developer**  
+**Welcome.**
+*Daniel Fernando - Software Developer*
 [ [See my portfolio ↗︎][repo-url] ]
   
 
