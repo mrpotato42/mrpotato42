@@ -1,7 +1,7 @@
 <div align="center">
 
-**Welcome.**
-*Daniel Fernando - Software Developer*
+**Welcome.**  
+*Daniel Fernando - Software Developer*  
 [ [See my portfolio ↗︎][repo-url] ]
   
 
