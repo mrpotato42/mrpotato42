@@ -27,9 +27,9 @@ Interested in creating solutions that improve the user experience and enable peo
 
 ### 🌐 Contact
 
-* [![Website](https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white)](https://mrpotato.netlify.app/)
+* [![Website](https://img.shields.io/badge/Website-8A2BE2?style=flat&logo=google-chrome&logoColor=white)](https://mrpotato.netlify.app/)
 * [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielcg99)
-* [![Gmail](https://img.shields.io/badge/danielfcg4@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielfcg4@gmail.com)
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielfcg4@gmail.com)
 
 ---
 
