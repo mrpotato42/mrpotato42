@@ -1,6 +1,6 @@
 <div align="center">
 
-**Hey! 👋**  
+<h1>**Hey! 👋**</h1>
 *I'm Daniel Criollo*  
 💻 FullStack Developer
 
