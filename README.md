@@ -1,10 +1,10 @@
 <div align="center">
 <h1>Hey! 👋<br>I'm Daniel Criollo</h1>
-<h2> 💻 FullStack Developer </h2>
+
 </div>
 
 ### 
-
+**💻 FullStack Developer**
 I am a developer interested in creating solutions that improve the user experience and enable people and companies to be more efficient in their day to day. I enjoy working on challenging projects, learning new technologies and collaborating in teams to build high quality software.
 
 ---
