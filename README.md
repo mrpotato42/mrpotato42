@@ -5,7 +5,7 @@
 ### 
 **💻 FullStack Developer**
 
-I am a developer interested in creating solutions that improve the user experience and enable people and companies to be more efficient in their day to day. I am looking to continue growing in dynamic environments that allow me to take on new challenges, strengthen my skills and expand my knowledge, including the strategic use of artificial intelligence tools.
+Interested in creating solutions that improve the user experience and enable people and companies to be more efficient. I am looking to continue growing in dynamic environments that allow me to take on new challenges, strengthen my skills and expand my knowledge, including the strategic use of artificial intelligence tools.
 
 ---
 
