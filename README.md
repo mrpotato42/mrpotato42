@@ -1,9 +1,6 @@
 <div align="center">
-
-**Hey! 👋**
-<h1>I'm Daniel Criollo <br> 💻 FullStack Developer </h1>  
-
-
+<h1>Hey! 👋<br>I'm Daniel Criollo</h1>
+<h2> 💻 FullStack Developer </h2>
 </div>
 
 ### 
